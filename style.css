@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to bottom right, #007BFF, #00c6ff);
+  color: white;
+  min-height: 100vh;
+}
+
+.weather-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  border-radius: 12px;
+  padding: 2rem;
+  color: white;
+}
